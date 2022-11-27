@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Daraz Website Automation Search Element suite">
+    <test name="User can Search an element successfully">
+        <classes>
+            <class name="testRunner.SearchElementTestRunner"/>
+        </classes>
+    </test>
+</suite>

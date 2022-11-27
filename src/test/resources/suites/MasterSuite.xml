@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Master suite">
+    <suite-files>
+        <suite-file path="LoginSuite.xml"></suite-file>
+        <suite-file path="SearchElementSuite.xml"></suite-file>
+        <suite-file path="SelectElementSuite.xml"></suite-file>
+        <suite-file path="AddToCartSuite.xml"></suite-file>
+        <suite-file path="CheckOutSuite.xml"></suite-file>
+    </suite-files>
+</suite>

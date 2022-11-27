@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Daraz Website Automation Checkout suite">
+    <test name="User can Checkout successfully">
+        <classes>
+            <class name="testRunner.CheckOutTestRunner"/>
+        </classes>
+    </test>
+</suite>

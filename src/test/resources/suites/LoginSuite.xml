@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Daraz Website Automation Login suite">
+<test name="Registered user can login successfully">
+    <classes>
+        <class name="testRunner.LoginTestRunner"/>
+    </classes>
+</test>
+</suite>

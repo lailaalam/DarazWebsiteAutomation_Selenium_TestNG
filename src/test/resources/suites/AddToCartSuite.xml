@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Daraz Website Automation AddToCart suite">
+    <test name="Registered user can Add Element To Cart successfully">
+        <classes>
+            <class name="testRunner.AddToCartTestRunner"/>
+        </classes>
+    </test>
+</suite>
