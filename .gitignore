@@ -4,3 +4,4 @@ build
 gradle
 allure-results
 allure-report
+./src/test/java/utils/Utils.java
