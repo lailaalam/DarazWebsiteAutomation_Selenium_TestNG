@@ -1,6 +1,6 @@
 # DarazWebsiteAutomation_Selenium_TestNG
 
-## This project  is on automating an E-commerce Website. Here has been automated the whole signup procedure,Login procedure and the Purchase procedure of the website.
+## This project  is on automating an E-commerce Website. Here has been automated the Login procedure and the Purchasing procedure of a product from the website.
 
 ## Tools used :
  -Intellij IDEA <br/>
@@ -8,6 +8,11 @@
  -TestNG (As automation testing Framework)<br/>
  -Allure(For report Generation)<br/>
  
+ 
+## NOTE : 
+The username and the password used for a successful login are confidential. So they have been stored in a user.json file in the resource folder. And user.json file has been added in the .gitignore. So for using this project there is a necessity to add the user.json file locally in the resource folder like: src/test/resources/user.json
+
+
  ## Snippet of the Test report are included below:
  
  
