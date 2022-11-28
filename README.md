@@ -9,12 +9,12 @@
  -Allure(For report Generation)<br/>
  
  ## Flow of work : 
- -Login 
- -Search Specific Item
- -Sorting by price range low to high
- -Select an item
- -Add the item to cart
- -Checkout
+ -Login <br/>
+ -Search Specific Item<br/>
+ -Sorting by price range low to high<br/>
+ -Select an item<br/>
+ -Add the item to cart<br/>
+ -Checkout<br/>
  
  
 ## NOTE : 
