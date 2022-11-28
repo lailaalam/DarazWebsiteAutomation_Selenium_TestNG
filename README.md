@@ -8,6 +8,14 @@
  -TestNG (As automation testing Framework)<br/>
  -Allure(For report Generation)<br/>
  
+ ## Flow of work : 
+ -Login 
+ -Search Specific Item
+ -Sorting by price range low to high
+ -Select an item
+ -Add the item to cart
+ -Checkout
+ 
  
 ## NOTE : 
 The username and the password used for a successful login are confidential. So they have been stored in a user.json file in the resource folder. And user.json file has been added in the .gitignore. So for using this project there is a necessity to add the user.json file locally in the resource folder like: src/test/resources/user.json
