@@ -20,6 +20,11 @@
 ## NOTE : 
 The username and the password used for a successful login are confidential. So they have been stored in a user.json file in the resource folder. And user.json file has been added in the .gitignore. So for using this project there is a necessity to add the user.json file locally in the resource folder like: src/test/resources/user.json
 
+ ## Video of the Test Automation is included below:
+ 
+ 
+https://user-images.githubusercontent.com/47983558/205684398-98dd4a26-850a-4864-b66e-d4996d39dcdb.mp4
+
 
  ## Snippet of the Test report are included below:
  
